@@ -2,10 +2,10 @@
 
 
 index
-[DEMO](oo10.github.io/nhpop_new)
+DEMO:http://oo10.github.io/nhpop_new
 
 生日趴抽奖
-[DEMO](oo10.github.io/nhpop_new/birthday)
+DEMO:http://oo10.github.io/nhpop_new/birthday
 
 h5页面
-DEMO:https://oo10.github.io/nhpop_new/h5/index.html
+DEMO:http://oo10.github.io/nhpop_new/h5/index.html
